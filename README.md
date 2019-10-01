@@ -9,6 +9,7 @@
 
 ### Additional Readme <a name="readme"></a>
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
+* [User Stories](./assets/USERSTORIES.md)
 
 **[Return to Top](#top)**
 
