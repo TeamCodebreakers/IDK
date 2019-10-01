@@ -47,7 +47,7 @@
   * Time Estimate: by the end of Day 2 (2-4 hours)
 
 
-#### Stretch Goal User Stories:
+### Stretch Goal User Stories:
 * As a developer, I want to say “I don’t know…” for other situations - suggestions for books, movies, events, arts...
 * As a User, I want to be able to rate my favorite restaurants.
 * As a developer, I want to publish my skill in the Alexa skill store.
