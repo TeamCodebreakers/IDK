@@ -1,13 +1,13 @@
 # IDK: I Don't Know <a name="top"></a>
 
 ### Table of Contents
-* [Additional Readme](#readme)
+* [Additional Readme](#addreadme)
 * [About Application](#aboutapp)
 * [About Us](#aboutus)
 * [Images](#images)
 * [Resources](#resources)
 
-### Additional Readme <a name="readme"></a>
+### Additional Readme <a name="addreadme"></a>
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
 
