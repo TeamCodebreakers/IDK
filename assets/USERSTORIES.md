@@ -2,7 +2,7 @@
 
 ### MVP User Stories:
 
-“As a <sentient platypus> I want <X> so that <Y>”
+“As a {sentient platypus} I want {X} so that {Y}”
 
 #### As a Developer:
 * I want well tested utterances, which are phrases that invoke an intent, so that users can easily interact with Alexa.
