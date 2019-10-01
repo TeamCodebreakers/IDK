@@ -1,4 +1,10 @@
-# Team Code Breakers User Stories
+# Team Code Breakers: User Stories
+
+### Members
+* Melfi Perez
+* Nick Paro
+* Jack Kinne
+* Matt Stuhring
 
 ### MVP User Stories:
 
