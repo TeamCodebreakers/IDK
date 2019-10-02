@@ -1,4 +1,4 @@
-# Team Code Breakers: User Stories
+# Team Code Breakers: General Project Description
 
 ### Members
 * Melfi Perez
