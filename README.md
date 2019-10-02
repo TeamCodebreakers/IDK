@@ -10,6 +10,7 @@
 ### Additional Readme <a name="addreadme"></a>
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
+* [General Project Description](./assets/pitch.md)
 
 **[Return to Top](#top)**
 
