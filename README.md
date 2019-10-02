@@ -38,7 +38,7 @@
 **Matt Stuhring**
 * [LinkedIn](https://www.linkedin.com/in/mattstuhring/)
 * [GitHub](https://github.com/mattstuhring)
-* Bio:
+* Bio: What up I'm Matt Stuhring. Software Developer Engineer on the Amazon Healthcare team. Something interesting about me is that I follow English Premier League soccer. Go Manchester United!!!
   
 **[Return to Top](#top)**
 
