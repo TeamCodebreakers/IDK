@@ -23,17 +23,17 @@
 **Jack Kinne**
 * [LinkedIn](https://www.linkedin.com/in/jackdkinne/)
 * [GitHub](https://github.com/Bravelemming)
-* Bio: 
+* Bio: Software Developer. Strongly educated professional with a Bachelor's degree in Computer Science and English Education from Humboldt State University. I'm into yoga and fighting with swords, and love volunteering with my local community.
 
 **Nicholas Paro**
 * [LinkedIn](https://www.linkedin.com/in/nparo/)
 * [GitHub](https://github.com/paronicholas)
-* Bio:
+* Bio: I am a software developer at Amazon and I currently work in the Alexa domains on the Healthcare team. I am working on my Bachelor's degree in Computer Science from Southern New Hampshire University and I have a Bachelor of Fine Arts in Music Theory and Composition from Carnegie Mellon University. A fun fact about me is that I enjoy doing custom woodworking - wood turning, cutting boards, and custom boxes.
 
 **Melfi Perez**
 * [LinkedIn](https://www.linkedin.com/in/melfiperez/)
 * [GitHub](https://github.com/perezm27)
-* Bio:
+* Bio: I am an SDE at Amazon with the Alexa Semantics team. I have my B.S from Montclair State University and a fun fact about me is that I’ve been to 19 different states and love to go on road trips.
 
 **Matt Stuhring**
 * [LinkedIn](https://www.linkedin.com/in/mattstuhring/)
