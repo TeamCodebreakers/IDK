@@ -1,6 +1,7 @@
 # IDK: I Don't Know <a name="top"></a>
 
 ### Table of Contents
+
 * [Additional Readme](#addreadme)
 * [About Application](#aboutapp)
 * [About Us](#aboutus)
@@ -8,6 +9,7 @@
 * [Resources](#resources)
 
 ### Additional Readme <a name="addreadme"></a>
+
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
 * [General Project Description](./assets/pitch.md)
@@ -16,10 +18,12 @@
 
 ### About the Application <a name="aboutapp"><a/>
 
+The "I don't know..." Skill eliminates the headache, "hanger", and indecision about choosing where you or a group want to eat! This Skill saves basic user preferences, asks the user to choose from two different food categories, pulls from the Yelp API, and gives back a suggestion following the users preferences.
+
 **[Return to Top](#top)**
 
 ### About Us <a name="aboutus"><a/>
-
+  
 **Jack Kinne**
 * [LinkedIn](https://www.linkedin.com/in/jackdkinne/)
 * [GitHub](https://github.com/Bravelemming)
