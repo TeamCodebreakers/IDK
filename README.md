@@ -52,5 +52,6 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 **[Return to Top](#top)**
 
 ### Resources <a name="resources"><a/>
+* [Build A Skill End-to-end](https://developer.amazon.com/docs/hosted-skills/build-a-skill-end-to-end-using-an-alexa-hosted-skill.html#)
 
 **[Return to Top](#top)**
