@@ -10,6 +10,7 @@
 
 ### Additional Readme <a name="addreadme"></a>
 
+* ![Trello](https://trello.com/b/1hskw7YL/idk)
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
 * [General Project Description](./assets/pitch.md)
