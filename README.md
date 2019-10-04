@@ -14,6 +14,7 @@
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
 * [General Project Description](./assets/pitch.md)
+* [Softeware Requirements](./assets/software-requirements.md)
 
 **[Return to Top](#top)**
 
