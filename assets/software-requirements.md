@@ -62,4 +62,4 @@ will include a default or custom option to start, in case a user needs a recomme
 as we want to be a source of relief and not stress for the userbase. 
 
 ## Data Flow
-![data_flow]()
+![data_flow](./data-flow.jpg)
