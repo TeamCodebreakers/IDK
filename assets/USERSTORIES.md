@@ -52,3 +52,4 @@
 * As a User, I want to be able to rate my favorite restaurants.
 * As a developer, I want to publish my skill in the Alexa skill store.
 * As a user, I want to receive texts when I confirm a restaurant, because reasons.
+* As a user, I want to name my groups so I can have more than one.  
