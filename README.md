@@ -63,10 +63,15 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 * [Alexa Device Address](https://developer.amazon.com/docs/custom-skills/device-address-api.html)
 
 ### Video Resources <a name="vresources"></a>
+* Yes or No Response
 
 [![alexa yes or no response](./assets/alexa-yes-no.png)](https://www.youtube.com/watch?v=f0JhqODTDY8)
 
+* Enhance Your Skill with Address Information
+
 [![alexa address info](./assets/alexa-address-info.png)](https://www.youtube.com/watch?time_continue=2&v=sZ7GCMqhjv0)
+
+* Alexa External API Call
 
 [![alexa api call](./assets/alexa-api-call.png)](https://www.youtube.com/watch?v=swW8tPRB_J4)
 
