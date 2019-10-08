@@ -6,7 +6,8 @@
 * [About Application](#aboutapp)
 * [About Us](#aboutus)
 * [Images](#images)
-* [Resources](#resources)
+* [Written Resources](#wresources)
+* [Video Resources](#vresources)
 
 ### Additional Readme <a name="addreadme"></a>
 
@@ -18,13 +19,13 @@
 
 **[Return to Top](#top)**
 
-### About the Application <a name="aboutapp"><a/>
+### About the Application <a name="aboutapp"></a>
 
 The "I don't know..." Skill eliminates the headache, "hanger", and indecision about choosing where you or a group want to eat! This Skill saves basic user preferences, asks the user to choose from two different food categories, pulls from the Yelp API, and gives back a suggestion following the users preferences.
 
 **[Return to Top](#top)**
 
-### About Us <a name="aboutus"><a/>
+### About Us <a name="aboutus"></a>
   
 **Jack Kinne**
 * [LinkedIn](https://www.linkedin.com/in/jackdkinne/)
@@ -48,13 +49,30 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
   
 **[Return to Top](#top)**
 
-### Images <a name="images"><a/>
+### Images <a name="images"></a>
 
 ![components of utterances and intents](./assets/alexa-screenshot.png)
 
 **[Return to Top](#top)**
 
-### Resources <a name="resources"><a/>
+### Written Resources <a name="wresources"></a>
 * [Build A Skill End-to-end](https://developer.amazon.com/docs/hosted-skills/build-a-skill-end-to-end-using-an-alexa-hosted-skill.html#)
+* [ASK CLI Install](https://developer.amazon.com/docs/ask-toolkit/get-started-with-the-ask-toolkit-for-visual-studio-code.html#install-the-ask-toolkit-in-vs-code)
+* [ASK CLI Reference](https://developer.amazon.com/docs/smapi/ask-cli-command-reference.html)
+* [Alexa Yelp](https://github.com/Yelp/yelp-fusion/blob/master/fusion/node/sample.js)
+* [Alexa Device Address](https://developer.amazon.com/docs/custom-skills/device-address-api.html)
+
+### Video Resources <a name="vresources"></a>
+* Yes or No Response
+
+[![alexa yes or no response](./assets/alexa-yes-no.png)](https://www.youtube.com/watch?v=f0JhqODTDY8)
+
+* Enhance Your Skill with Address Information
+
+[![alexa address info](./assets/alexa-address-info.png)](https://www.youtube.com/watch?time_continue=2&v=sZ7GCMqhjv0)
+
+* Alexa External API Call
+
+[![alexa api call](./assets/alexa-api-call.png)](https://www.youtube.com/watch?v=swW8tPRB_J4)
 
 **[Return to Top](#top)**
