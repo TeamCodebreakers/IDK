@@ -7,8 +7,8 @@
 * Matt Stuhring
 
 ### Summary of idea
-* We want an Alexa Skill that suggests restaurants based on given options, by saying you don't know where you want to go.  
-* This should hook into a dynamoDB Database with lambdas to save preferences.  
+* We want an Alexa Skill that suggests places to eat by making a call to the Yelp Api and returning restaurant recommendations, by saying "Alexa, open I'm Hungry".  
+* This connects to S3 bucket with lambdas to allow persistence throughout the skill session & to allow the user to add multiple members to a group.  
 
 ### What problem or pain point does it solve? 
 * This eliminates the headache of trying to choose a restaurant when you don't know what you want to eat.  
@@ -20,8 +20,8 @@
 * With utterances which we capture and manipulate.  
 * Yelp API to gather local restaurants.
 * Uses the following AWS services:  
-* Codestar. 
-* DynamoDB.
 * Lambda.
 * IAM.
+* SNS.
+* CloudWatch.
 * S3.
