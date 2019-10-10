@@ -7,7 +7,7 @@
 * Matt Stuhring
 
 ### Application
-* An Alexa Skill named "I don't know..."
+* An Alexa Skill named "FeedMeNow"
 
 ### MVP
 
