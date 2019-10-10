@@ -7,7 +7,7 @@
 * Matt Stuhring
 
 ### Summary of idea
-* We want an Alexa Skill that suggests places to eat by making a call to the Yelp Api and returning restaurant recommendations, by saying "Alexa, open I'm Hungry".  
+* We want an Alexa Skill that suggests places to eat by making a call to the Yelp Api and returning restaurant recommendations, by saying "Alexa, open FeedMeNow".  
 * This connects to S3 bucket with lambdas to allow persistence throughout the skill session & to allow the user to add multiple members to a group.  
 
 ### What problem or pain point does it solve? 
