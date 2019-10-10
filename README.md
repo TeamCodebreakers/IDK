@@ -23,7 +23,7 @@
 
 ### About the Application <a name="aboutapp"></a>
 
-The "I don't know..." Skill eliminates the headache, "hanger", and indecision about choosing where you or a group want to eat! This Skill saves basic user preferences, asks the user to choose from two different food categories, pulls from the Yelp API, and gives back a suggestion following the users preferences.
+The "REPLACE WITH FINAL SKILL NAME" Skill eliminates the headache, "hanger", and indecision about choosing where you or a group want to eat! This Skill makes restaurant recommendations based on the Yelp API, by using the users' device location and narrowing it down to a 25 mile radius. Users are automatically enrolled in their own personal group & have the option to add and remove additional members from their group. Once a recommendation is selected Alexa will send an SMS text with the restaurant information to all memebers of the group. 
 
 **[Return to Top](#top)**
 
@@ -42,7 +42,7 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 **Melfi Perez**
 * [LinkedIn](https://www.linkedin.com/in/melfiperez/)
 * [GitHub](https://github.com/perezm27)
-* Bio: I am an SDE at Amazon with the Alexa Semantics team. I have my B.S from Montclair State University and a fun fact about me is that I’ve been to 19 different states and love to go on road trips.
+* Bio: I am a Software Developer Engineer at Amazon with the Alexa Semantics team. I have my Bachelor's degree in Information Technology from Montclair State University. A fun fact about me is that I love going on roadtrips and up to this point I've already visited 19 different states. 
 
 **Matt Stuhring**
 * [LinkedIn](https://www.linkedin.com/in/mattstuhring/)
