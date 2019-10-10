@@ -52,7 +52,7 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 
 ### Images <a name="images"></a>
 
-![data flow](./assets/data-flow.jpg)
+![data flow](./assets/data-flow.pdf)
 
 ![components of utterances and intents](./assets/alexa-screenshot.png)
 
