@@ -1,6 +1,6 @@
 ## Vision
-- The vision of this product is to make an easy, voice interface for suggesting food choices.  
-- We want to save options, limit by distance, and eventually use this for groups and send texts with addresses.  
+- The vision of this product is to make an easy, voice interface for suggesting places to eat.  
+- We want to limit recommendations by distance, allow the user to add & remove members from their group, send an SMS text to notify all memebers of the group of restaurant selection, and eventually use this to make recommendations based on user preferences.  
 
 ## What pain point does this project solve?
 - This eliminates the headache of trying to choose a restaurant when you don't know what you want to eat. 
@@ -15,7 +15,10 @@
 ## Scope (In/Out)
 ### IN - What will your product do
 - allow voice to alexa.
-- allow option settings.
+- allow groups to be made.
+- allow users to add memebers to their group.
+- allow users to be removed from a group.
+- Send Resturant choice to all memebers of the group.
 - limit recommendations by area.
 - get data from yelp API
 - save and persist data
@@ -23,7 +26,9 @@
 
 ### OUT - What will your product not do.
 - Will not reserve a table at a location.
-- Will not have a GUI interface
+- Will not have a GUI interface.
+- Current version does not support saving user preferences.
+- Will not filter restaurants by food type.
 
 
 ## MVP
@@ -43,22 +48,24 @@ What will your MVP be. What is your expected minimum end product?
 - groups
 - texts
 - books
+- adding user preferences
+- saving user preferences
+- making recommendations based on user preferences
 - other cateogory searches
 
 ## Functional Requirements
 - A user can ask for a restaurant
 - a user can set location distance
-- a user can set a type of food they hate
-- a user can persist preferences
-- A user can update preferences
+- a user can persist skill session
+- A user can update add & remove members from their group.
 
 ## Non-Functional Requirements (301 & 401 only)
 - Usability Testing
 We will be focusing on usability and integration testing for voice activation of utterances, to ensure a good product and
 responsive architecture.
 - Ease of Access
-This product must be easy for users to engage with, with references our previous point.  Saving options must be quick, so we
-will include a default or custom option to start, in case a user needs a recommendation immediately.  Being quick is critical, 
+This product must be easy for users to engage with, with references our previous point.  Adding an user to a group must be quick, so we
+will add the current user to a group by default, in case a user needs a recommendation immediately.  Being quick is critical, 
 as we want to be a source of relief and not stress for the userbase. 
 
 ## Data Flow
