@@ -15,7 +15,8 @@
 * [Team Agreement](./assets/TEAMAGREEMENT.md)
 * [User Stories](./assets/USERSTORIES.md)
 * [General Project Description](./assets/pitch.md)
-* [Softeware Requirements](./assets/software-requirements.md)
+* [Software Requirements](./assets/software-requirements.md)
+* [ASK CLI usage workflow](./assets/ask-setup.md)
 
 **[Return to Top](#top)**
 
@@ -50,6 +51,8 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 **[Return to Top](#top)**
 
 ### Images <a name="images"></a>
+
+![data flow](./assets/data-flow.png)
 
 ![components of utterances and intents](./assets/alexa-screenshot.png)
 
