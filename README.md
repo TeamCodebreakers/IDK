@@ -17,6 +17,7 @@
 * [General Project Description](./assets/pitch.md)
 * [Software Requirements](./assets/software-requirements.md)
 * [ASK CLI usage workflow](./assets/ask-setup.md)
+* [Project Data Flow](./assets/data-flow.pdf)
 
 **[Return to Top](#top)**
 
@@ -51,8 +52,6 @@ The "I don't know..." Skill eliminates the headache, "hanger", and indecision ab
 **[Return to Top](#top)**
 
 ### Images <a name="images"></a>
-
-![data flow](./assets/data-flow.pdf)
 
 ![components of utterances and intents](./assets/alexa-screenshot.png)
 
