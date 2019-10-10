@@ -59,7 +59,7 @@ What will your MVP be. What is your expected minimum end product?
 - a user can persist skill session
 - A user can update add & remove members from their group.
 
-## Non-Functional Requirements (301 & 401 only)
+## Non-Functional Requirements
 - Usability Testing
 We will be focusing on usability and integration testing for voice activation of utterances, to ensure a good product and
 responsive architecture.
