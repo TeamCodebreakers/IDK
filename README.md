@@ -25,7 +25,7 @@
 
 The "FeedMeNow" Skill eliminates the headache, "hanger", and indecision about choosing where you or a group want to eat! This Skill makes restaurant recommendations based on the Yelp API, by using the users' device location and narrowing it down to a 25 mile radius. Users are automatically enrolled in their own personal group & have the option to add and remove additional members from their group. Once a recommendation is selected Alexa will send an SMS text with the restaurant information to all memebers of the group. 
 
-![data flow](./assets/data-flow.png)
+![data flow](./assets/FeedMeNow.png)
 
 **[Return to Top](#top)**
 
