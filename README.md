@@ -80,3 +80,9 @@ The "FeedMeNow" Skill eliminates the headache, "hanger", and indecision about ch
 [![alexa api call](./assets/alexa-api-call.png)](https://www.youtube.com/watch?v=swW8tPRB_J4)
 
 **[Return to Top](#top)**
+
+# ask deploy
+ask deploy -p teamcodebreakers
+from our sourcecode:
+```ask deploy -p TeamCodeBreakers --force```
+
